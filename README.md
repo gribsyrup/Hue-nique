@@ -1,3 +1,9 @@
+<head>
+    <title> Scaling the Summit </title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+</head>
+
 # Scaling the Summit 
 
 Welcome to the page for team Hue-nique's game, Scaling the summit! 
