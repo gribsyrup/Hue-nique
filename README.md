@@ -6,15 +6,15 @@ Welcome to the page for team Hue-nique's game, Scaling the summit!
 
 ### Art team:
 
-Griffin Bowers gbowers@wpi.edu
-Lauren Waddick: lewaddick@wpi.edu
-Juliet Morin: jmorin2@wpi.edu 
+    Griffin Bowers gbowers@wpi.edu
+    Lauren Waddick: lewaddick@wpi.edu
+    Juliet Morin: jmorin2@wpi.edu 
 
 ### Tech team: 
 
-James Cannon: jmcannon2@wpi.edu 
-Niralya Sundararajan: nsundararajan@wpi.edu 
-Han Saparuly: bsaparuly@wpi.edu 
+    James Cannon: jmcannon2@wpi.edu 
+    Niralya Sundararajan: nsundararajan@wpi.edu 
+    Han Saparuly: bsaparuly@wpi.edu 
 
 ## Our Design Document 
 Access our Design document here: 
