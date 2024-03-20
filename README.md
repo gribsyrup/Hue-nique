@@ -1,3 +1,11 @@
+<nav>
+    <ul>
+        <li id="home">Home</a></li>
+        <li id="Volunteer">Alpha Version</a></li>
+        <li id="Activities">Beta Version</a></li>
+        <li id="Parking">Art Portfolio</a></li>
+    </ul>
+</nav>
 # Scaling the Summit 
 
 Welcome to the page for team Hue-nique's game, Scaling the summit! 
@@ -18,6 +26,7 @@ Welcome to the page for team Hue-nique's game, Scaling the summit!
 
 ## Our Design Document 
 Access our Design document here: 
+
 
 
     Team Information (members, roles, contact information)
