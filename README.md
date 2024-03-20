@@ -1,9 +1,9 @@
 <nav> 
     <ul>
-        <li id="home">Home</a></li>
-        <li id="Volunteer">Alpha Version</a></li>
-        <li id="Activities">Beta Version</a></li>
-        <li id="Parking">Art Portfolio</a></li>
+        <li id="home">Home</li>
+        <li id="Volunteer">Alpha Version</li>
+        <li id="Activities">Beta Version</li>
+        <li id="Parking">Art Portfolio</li>
     </ul>
 </nav>
 
