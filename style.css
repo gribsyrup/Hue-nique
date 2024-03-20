@@ -1,14 +1,14 @@
 header {
- font-family: Kalam;
- font-weight: bold;
+ font-family: Futura, Trebuchet MS;
+ font-weight: bold condensed;
  color: #607D3B; 
  font-size: 25px;
  padding:3px;
 }
 
 h1 {
- font-family: Kalam;
- font-weight: bold;
+ font-family: Futura, Trebuchet MS;
+ font-weight: bold condensed;
  color: #607D3B; 
  font-size: 25px;
  padding:3px;
@@ -16,7 +16,7 @@ h1 {
 
 body {
  background-color: #bcbcbc;
- font-family: Times New Roman;
+ font-family: Kalam;
  font-weight: bold condensed;
  color: #000000;
  font-size: 14px;
@@ -29,7 +29,7 @@ p {
 footer {
  font-family: Futura, Trebuchet MS;
  font-weight: bold condensed;
- color: #AC2B37; 
+ color: #607D3B; 
  font-size: 14px;
 }
 
