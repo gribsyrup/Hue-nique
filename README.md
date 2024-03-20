@@ -1,11 +1,3 @@
-<nav> 
-    <ul>
-        <li id="home">Home</li>
-        <li id="Volunteer">Alpha Version</li>
-        <li id="Activities">Beta Version</li>
-        <li id="Parking">Art Portfolio</li>
-    </ul>
-</nav>
 
 # Scaling the Summit 
 
@@ -26,16 +18,5 @@ Welcome to the page for team Hue-nique's game, Scaling the summit!
     Han Saparuly: bsaparuly@wpi.edu 
 
 ## Our Design Document 
-Access our Design document here: 
-
-
-
-    Team Information (members, roles, contact information)
-    Design documents (game treatment and subsequent design materials)
-    Downloadable executables for your game's Alpha and Beta versions
-    Demonstration video (for final Beta version)
-    Slides for final Beta presentation
-    Art Progress Imagery (obtain further guidance from Professor Sutter)
-    Art portfolio (obtain further guidance from Professor Sutter)
-
-
+Access our Design document 
+<a href="Treatment Document Hue-nique.pdf" download></a>
