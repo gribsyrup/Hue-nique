@@ -32,3 +32,5 @@ Welcome to the page for team Hue-nique's game, Scaling the summit!
 ## Our Design Document 
 Access our Design document 
 <a href="Treatment Document Hue-nique.pdf" download>here</a>!
+
+<footer>Team Hue-nique</footer>
