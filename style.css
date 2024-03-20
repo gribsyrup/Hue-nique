@@ -1,14 +1,14 @@
 header {
- font-family: 'Kalam';
- font-weight: bold condensed;
+ font-family: Kalam;
+ font-weight: bold;
  color: #607D3B; 
  font-size: 25px;
  padding:3px;
 }
 
 h1 {
- font-family: 'Kalam';
- font-weight: bold condensed;
+ font-family: Kalam;
+ font-weight: bold;
  color: #607D3B; 
  font-size: 25px;
  padding:3px;
