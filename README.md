@@ -12,26 +12,22 @@ Welcome to the page for team Hue-nique's game, Scaling the summit!
 
 ### Art team:
 
-    Griffin Bowers gbowers@wpi.edu
-        Role: Art (good) 
-        3D character modeling, rigging, animation 
-    Lauren Waddick: lewaddick@wpi.edu
-        Role: Art (neutral)
-        3D character and environment modeling, lighting, animation
-    Juliet Morin: jmorin2@wpi.edu 
-        Role: Art (evil)
+    Griffin Bowers (good): gbowers@wpi.edu
+        Role: 3D character and environmental modeling, texturing, animation, UI
+    Lauren Waddick (neutral): lewaddick@wpi.edu
+        Role:  3D character modeling, rigging, animation 
+    Juliet Morin (evil): jmorin2@wpi.edu 
+        Role: 3D character and environment modeling, lighting, animation
+
 
 ### Tech team: 
 
-    James Cannon : jmcannon2@wpi.edu 
-        Role: Tech (neutral)
-        Level Design & Control implementation
-    Niralya Sundararajan: nsundararajan@wpi.edu 
-        Role: Tech (chaotic)
-        Team Leader, Movement/Control & Interaction implementation
+    James Cannon (neutral): jmcannon2@wpi.edu 
+        Role: Level Design & Control implementation
+    Niralya Sundararajan (chaotic): nsundararajan@wpi.edu 
+        Role: Team Leader, Movement/Control & Interaction implementation
     Batyrkhan Saparuly (lawful): bsaparuly@wpi.edu 
-        Role: Tech (lawful)
-        Lighting & Audio implementation
+        Role: Lighting & Audio implementation
 
 ## Our Design Document 
 Access our Design document 
